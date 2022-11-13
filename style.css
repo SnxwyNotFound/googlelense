@@ -1,0 +1,28 @@
+.test_image_and_result {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid white;
+    border-radius: 15px;
+    margin:10px;
+    padding:30px;
+}
+
+body{
+    background-color: rgb(112, 125, 245);
+}
+
+b {
+    color: purple;
+}
+
+h5 {
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.mini_result {
+    
+    text-align: center;
+    color: white;
+}
